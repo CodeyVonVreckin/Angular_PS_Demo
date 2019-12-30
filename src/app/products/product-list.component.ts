@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { IProduct } from './product';
 
 @Component({
     selector: 'pm-products',
@@ -12,7 +13,7 @@ import { Component } from '@angular/core';
     showImage: boolean = false;
     listFilter:string = "cart";
     // any = var
-    products: any[] = 
+    products: IProduct[] = 
         [
             {
               "productId": 1,
