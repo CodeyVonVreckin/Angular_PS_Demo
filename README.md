@@ -1,3 +1,6 @@
+# Project Info
+This project was part of a hands on Pluralsight training module. For more info you can find the module here https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents
+
 # APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
